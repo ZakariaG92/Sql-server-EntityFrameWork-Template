@@ -1,0 +1,17 @@
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Entities.dll
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Entities.pdb
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\SqlEntityApp\Blog.app\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\SqlEntityApp\Blog.app\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
